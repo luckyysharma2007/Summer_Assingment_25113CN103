@@ -5,7 +5,7 @@ int main()
 {
     int num, original, sum = 0, digit, n = 0;
 
-    printf("Enter a number: ");
+    printf("\nEnter a number: ");
     scanf("%d", &num);
 
     original = num;
@@ -32,6 +32,6 @@ int main()
     else
         printf("%d is not an Armstrong number\n", original);
 
-        
+
     return 0;
 }
