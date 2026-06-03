@@ -26,7 +26,7 @@ int main()
         }
     }
 
-    printf("The number of digits is: %d\n", count);
+    printf("The number of digits in number %d is: %d\n", num, count);
 
     return 0;
 }
