@@ -20,9 +20,9 @@ int main()
     }
 
     if (sum == num)
-        printf("%d is a Perfect number\n", num);
+        printf("\n%d is a Perfect number\n", num);
     else
-        printf("%d is Not a Perfect number\n", num);
+        printf("\n%d is Not a Perfect number\n", num);
 
         
     return 0;
